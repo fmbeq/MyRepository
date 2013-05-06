@@ -3,3 +3,4 @@
 3. Download and install msysgit on Windows (You can refer to "Getting started" on github help pages for this)
 4. Create at least three "commits" in your local repository
 5. push the commits to your account on github
+6. Provide the result of the command "git log" (which should show the commits) in the form of a screenshot along with a link to your github repo.
